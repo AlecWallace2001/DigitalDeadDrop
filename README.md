@@ -59,17 +59,17 @@ Retrieving Email
   
   Retrieved Email Format:
   
-  �Validity indication
+  Validity indication
   
-  �Message Encrypted
+  Message Encrypted
   
-  �Message Decrypted
+  Message Decrypted
   
   
   
-  �Subject Hash
+  Subject Hash
   
-  �Decrypted Message Hash
+  Decrypted Message Hash
   
   
   Pressing enter after reading the message will scroll you through the emails.
